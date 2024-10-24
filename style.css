@@ -1,0 +1,33 @@
+.flex{
+  display:flex;
+  justify-content:space-around;
+  align-items: center;
+  gap: 25px;
+ 
+  ;
+}
+.flex1{
+  display:flex;
+  justify-content:space-between;
+  
+}
+.sky{
+  font-weight: bold;
+}
+.clr{
+  background-color: #F9F1E7;
+}
+.ht{
+  height: 200px;
+}
+
+
+.ht1{
+  height: 200px;
+  width:200px;
+  padding: 20px;
+}
+.ht2{
+  height:50px;
+  padding-top: 20px;
+}
